@@ -11,4 +11,4 @@ Disallow: /search
 Disallow: /p/search.html
 Allow: /
 
-Sitemap: https://towmeod.github.io//sitemap.xml
+Sitemap: https://towmeod.github.io/sitemap.xml
